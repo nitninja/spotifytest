@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">spotifytest</string>
+    <string name="client">90449b7c705042bda5599cb38f75c4ae</string>
+    <string name="warning_token">You need to request access token first laude</string>
+    <string name="code">Code: %1$s</string>
+    <string name="token">Access Token: %1$s</string>
+    <string name="com_spotify_sdk_redirect_scheme">com.example.spotifytest</string>
+    <string name="com_spotify_sdk_redirect_host">auth</string>
+    <string name="request_code">Request Code</string>
+    <string name="get_user_profile">Get User Profile</string>
+    <string name="request_token">Request Token</string>
+</resources>
